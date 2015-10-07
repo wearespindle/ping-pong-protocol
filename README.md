@@ -123,4 +123,4 @@ Toegestaan en bevorderd.
 Nader uit te werken
 
 #### Unaniem “WOW!?” regel (ook wel de Pascal­norm)
-Bij een unanieme WOW!? blijft de speler in het spel ook als de return van de slag binnen andere tafeltennisregelmenten als niet geldend worden bestempeld. 
+Bij een unanieme WOW!? blijft de speler in het spel ook als de return van de slag binnen andere tafeltennisreglementen als niet geldend worden bestempeld. 
