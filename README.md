@@ -24,7 +24,7 @@ c. leden van verdienste
 
 1. Leden van verdienste zijn zij, die wegens bijzondere verdiensten jegens de vereniging door de gemeenschappelijke opinie als zodanig worden beschouwd.
 2. Op leden van verdienste rusten verplichtingen, te weten natuurlijk toekomende taken in het kader van geschillenbeslechting. Verder hebben zij alle rechten gelijk aan die van de leden.
-3. In geen geval kunnen spelers van Voys Telecom verheven worden tot leden van verdienste.
+3. In geen geval kunnen spelers van Voys B.V. en/ofd Voys BVBA verheven worden tot leden van verdienste.
 
 #### Artikel 4, tijden
 
@@ -62,7 +62,7 @@ De gedragsregels zijn richtlijnen opgesteld voor zowel de leden als bezoekers va
 
 * Je levert een positieve bijdrage aan het zo goed mogelijk functioneren van je team. Je wilt graag winnen, ten koste van alles.
 * Het consumeren van alcoholische dranken op de sportlocatie wordt gestimuleerd, met name op elke laatste vrijdag van de maand.
-* Bij elke sportactiviteit met drie of meer participanten geldt het meebrengen van minimaal vier speelballen.
+* Bij elke sportactiviteit met drie of meer participanten geldt het meebrengen van minimaal drie speelballen.
 * Pascal Touset dient niet op zijn linkerzijde aangespeeld te worden, dit ter bescherming van de eigenwaarde. Immers, deze slagen worden altijd teruggespeeld.
 
 ### Geoorloofd en bevorderd zijn de volgende tactieken:
@@ -74,21 +74,16 @@ Probeer u echter te beperken tot de tactieken opgenomen in deze gedragscode.
 Het idee scheppen dat je nog in het spel zit terwijl je in werkelijkheid af bent, om zo de persoon na je te misleiden om de bal niet terug te slaan.
 
 #### Twee ballen opgeslagen
-
-Nader uit te werken
+Hierbij dient minimaal één bal teruggeslagen te worden om de return op de opslag geldend te laten zijn.
 
 #### Schuin opslaan
-
-Nader uit te werken
+Schuin opslaan is net als recht opslaan toegestaan. Bij dubbelspel is slechts schuin opslaan mogelijk. 
 
 #### Voor een ander opslaan (met het roepen van het woord ‘opgeslagen’)
-
-Nader uit te werken
+Toegestaan en bevorderd. 
 
 #### Hand in the sack play (voornamelijk op pizzasessie­dagen)
-
 Nader uit te werken
 
 #### Unaniem “WOW!?” regel (ook wel de Pascal­norm)
-
-Nader uit te werken
+Bij een unanieme WOW!? blijft de speler in het spel ook als de return van de slag binnen andere tafeltennisregelementen als niet geldend worden bestempeld. 
