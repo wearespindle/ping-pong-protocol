@@ -6,42 +6,77 @@ Dit document kan opgevat worden als satire, desalniettemin zijn geldend alle reg
 
 ### Huishoudelijk reglement
 
-#### Artikel 1, algemene bepalingen
+#### Artikel 1, Algemene bepalingen
 
-- De tischtennis­spelersgroep genaamd Devhouse Spindle, hierna te noemen “de vereniging” is niet bij notariële akte opgericht, maar dankt haar bestaansrecht aan het simpele feit ‘omdat’.
-- Het huishoudelijk reglement is van toepassing in onverbrekelijke samenhang met de gedragscode van de vereniging.
+1.1 De tischtennis­spelersgroep genaamd Devhouse Spindle, hierna te noemen “de vereniging” is niet bij notariële akte opgericht, maar dankt haar bestaansrecht aan het simpele feit ‘omdat’.
 
-#### Artikel 2, leden
+1.2 Het huishoudelijk reglement is van toepassing in onverbrekelijke samenhang met de gedragscode van de vereniging.
 
-1. De vereniging bestaat uit:
-a. jeugdleden
-b. senioren
-c. leden van verdienste
-2. Jeugdleden zijn alle leden jonger dan, of even oud als Allard Stijnman, supernerd.
-3. Senioren zijn alle overige leden.
+#### Artikel 2, Leden
 
-#### Artikel 3, leden van verdienste
+2.1.1 De vereniging bestaat uit:
+  - jeugdleden
+  - senioren
+  - Leden van Verdienste
 
-1. Leden van verdienste zijn zij, die wegens bijzondere verdiensten jegens de vereniging door de gemeenschappelijke opinie als zodanig worden beschouwd.
-2. Op leden van verdienste rusten verplichtingen, te weten natuurlijk toekomende taken in het kader van geschillenbeslechting. Verder hebben zij alle rechten gelijk aan die van de leden.
-3. In geen geval kunnen spelers van Voys B.V. en/ofd Voys BVBA verheven worden tot leden van verdienste.
+2.1.2 Jeugdleden zijn alle leden jonger dan, of even oud als Allard Stijnman, supernerd.
 
-#### Artikel 4, tijden
+2.1.3 Senioren zijn alle overige leden.
 
-Er wordt door de vereniging in beginsel getafeltennist op de hierna te noemen tijdstippen.
 
-1. Op maandagen, woensdagen en vrijdagen van 12:15 tot 12:45.
-2. Op dinsdagen en donderdagen van 12:45 tot 13:15.
+2.2.1 Lid worden is ten alle tijden mogelijk en kan aangevraagd worden bij de secretaris, Tim Eebes.
 
-#### Artikel 5, wijziging van het huishoudelijk reglement
+2.2.2 Er zal geen ledenadministratie bijgehouden worden. Ieder lid dient van zichzelf te weten of hij/zij lid is.
 
-1. Het huishoudelijk reglement kan slechts gewijzigd worden door een besluit van de algemene ledenvergadering, waartoe werd opgeroepen met de mededeling dat aldaar wijziging van het huishoudelijk reglement zal worden voorgesteld. De termijn voor oproeping tot een zodanige vergadering moet tenminste 3 minuten bedragen.
-2. Een besluit tot wijziging van het huishoudelijk reglement behoeft tenminste 2/3 van de uitgebrachte geldige stemmen.
+2.2.3 Lidmaatschap kan zonder opgaaf van reden alleen door het lid zelf opgezegd worden. Hij/zij doet dit door zich duidelijk uit te spreken tijdens of vlak na het spelen met de woorden: 'Zo hoeft het van mij niet meer, ik stop ermee!'.
 
-#### Artikel 6, slotbepalingen
+2.2.4 Indien lidmaatschap in het verleden is opgezegd, blijft regel 2.2.1 onverminderd van kracht.
 
-1. Ieder lid en verenigingsorgaan heeft zich te houden aan de bepalingen van dit reglement.
-2. Na vaststelling van het reglement wordt niet overgegaan tot bekendmaking. Op ieder lid rust de verantwoordelijkheid kennis te nemen van de bepalingen van dit reglement. Dit huishoudelijk reglement en alle navolgende wijzigingen van dit reglement treden direct na vaststelling in werking.
+#### Artikel 3, Leden van Verdienste
+
+3.1 Leden van verdienste zijn zij, die wegens bijzondere verdiensten jegens de vereniging door de gemeenschappelijke opinie als zodanig worden beschouwd.
+
+3.2 Op leden van verdienste rusten verplichtingen, te weten natuurlijk toekomende taken in het kader van geschillenbeslechting. Verder hebben zij alle rechten gelijk aan die van de leden.
+
+3.3 In geen geval kunnen spelers van Voys B.V. en/of Voys BVBA verheven worden tot Leden van Verdienste.
+
+#### Artikel 4, Tijden
+
+4.1 Er wordt door de vereniging in beginsel getafeltennist op de hierna te noemen tijdstippen.
+
+* Op werkdagen van 12:15 tot 13:15.
+* Op werkdagen vanaf 17:00, met uitzondering van:
+* Op vrijdag vanaf 16:00.
+
+4.2 Spelen buiten deze tijden dient altijd in overleg plaats te vinden met de omgeving van de lokatie waar gespeeld wordt.
+
+#### Artikel 5, Lokatie
+
+5.1 Tafeltennis heurt bij Devhouse Spindle en zal altijd gespeeld worden in de buurt van haar HQ. De vereniging traint & speelt haar wedstrijden in The Big Building op de Achterweg 1 te Groningen. 
+
+5.2 Het 'Auditorium' is de aangewezen speelruimte.
+
+#### Artikel 6, Materiaal
+
+6.1 De pingpongtisch zal ten alle tijde met liefde worden behandeld. Het is geen bank of stoel, zij houdt ervan om af en toe geaaid te worden en komt het beste tot zijn recht zonder kringen van bierflesjes op het blad.
+
+6.2 Als de tafel niet bespeelt wordt voelt hij zich eenzaam in het grote auditorium. Daarom wil hij dan graag opgevouwen worden en verplaatst worden naar de ruimte tegenover de liften.
+
+6.3 Devhouse Spindle zal voorzien in voldoende batjes & ballen, daar waar nodig aangevuld met boeken uit de bibliotheek. Materiaal is ook beschikbaar voor gasten en eventuele andere gebruikers.
+
+#### Artikel 7, wijziging van het huishoudelijk reglement
+
+7.1 Het huishoudelijk reglement kan slechts gewijzigd worden door een besluit van de algemene ledenvergadering, waartoe werd opgeroepen met de mededeling dat aldaar wijziging van het huishoudelijk reglement zal worden voorgesteld. De termijn voor oproeping tot een zodanige vergadering moet tenminste 3 minuten bedragen.
+
+7.2 Een besluit tot wijziging van het huishoudelijk reglement behoeft tenminste 2/3 van de uitgebrachte geldige stemmen.
+
+7.3 Wijzigingen kunnen ook doormiddel van een pullrequest ingediend worden op Github (https://github.com/wearespindle/ping-pong-protocol). Acceptatie van een pullrequest dient te worden verzorgd door een ander dan degene die de wijzigingen indient.
+
+#### Artikel 8, slotbepalingen
+
+8.1 Ieder lid en verenigingsorgaan heeft zich te houden aan de bepalingen van dit reglement.
+
+8.2 Na vaststelling van het reglement wordt overgegaan tot bekendmaking op Github (https://github.com/wearespindle/ping-pong-protocol). Op ieder lid rust de verantwoordelijkheid kennis te nemen van de bepalingen van dit reglement. Dit huishoudelijk reglement en alle navolgende wijzigingen van dit reglement treden direct na vaststelling in werking.
 
 ### Gedragscode
 
@@ -64,10 +99,12 @@ De gedragsregels zijn richtlijnen opgesteld voor zowel de leden als bezoekers va
 * Het consumeren van alcoholische dranken op de sportlocatie wordt gestimuleerd, met name op elke laatste vrijdag van de maand.
 * Bij elke sportactiviteit met drie of meer participanten geldt het meebrengen van minimaal drie speelballen.
 * Pascal Touset dient niet op zijn linkerzijde aangespeeld te worden, dit ter bescherming van de eigenwaarde. Immers, deze slagen worden altijd teruggespeeld.
+* Vriendjespolitiek is toegestaan en wordt bevorderd om het spel element te vergroten.
+* Het meebrengen van gasten verdient waardering en zal ook door de overige deelnemers aan het spel met enthousiasme worden ontvangen.
 
 ### Geoorloofd en bevorderd zijn de volgende tactieken:
 
-Probeer u echter te beperken tot de tactieken opgenomen in deze gedragscode.
+Probeer u zich echter niet te beperken tot de tactieken opgenomen in deze gedragscode.
 
 #### Misleiden
 
@@ -77,7 +114,7 @@ Het idee scheppen dat je nog in het spel zit terwijl je in werkelijkheid af bent
 Hierbij dient minimaal één bal teruggeslagen te worden om de return op de opslag geldend te laten zijn.
 
 #### Schuin opslaan
-Schuin opslaan is net als recht opslaan toegestaan. Bij dubbelspel is slechts schuin opslaan mogelijk. 
+Schuin opslaan is net als recht opslaan toegestaan. Bij dubbelspel is slechts schuin opslaan toegestaan. 
 
 #### Voor een ander opslaan (met het roepen van het woord ‘opgeslagen’)
 Toegestaan en bevorderd. 
@@ -86,4 +123,4 @@ Toegestaan en bevorderd.
 Nader uit te werken
 
 #### Unaniem “WOW!?” regel (ook wel de Pascal­norm)
-Bij een unanieme WOW!? blijft de speler in het spel ook als de return van de slag binnen andere tafeltennisregelementen als niet geldend worden bestempeld. 
+Bij een unanieme WOW!? blijft de speler in het spel ook als de return van de slag binnen andere tafeltennisregelmenten als niet geldend worden bestempeld. 
