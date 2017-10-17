@@ -54,7 +54,7 @@ Dit document kan worden opgevat als satire, desalniettemin zijn geldend alle reg
 
 5.1 Tafeltennis heurt bij Devhouse Spindle en zal altijd worden gespeeld in de buurt van haar HQ. De vereniging traint en speelt haar wedstrijden in The Big Building, Achterweg 1 te Groningen. 
 
-5.2 Het 'Auditorium' is de aangewezen speelruimte.
+5.2 Hoofdspeelplaats is voornamelijk het kantoor van Devhouse Spindle. Tussen de lockers en de bar.
 
 #### Artikel 6, Materiaal
 
@@ -88,7 +88,7 @@ NOC*NSF heeft in samenwerking met de sportbonden een toolkit Beleid Seksuele Int
 
 De rol van VertrouwensContactPersoon (VCP) is in het leven geroepen om een eerste aanspreekpunt te hebben in geval van problemen. De VCP is op de hoogte van de mogelijkheden die er zijn om hulp te krijgen. Daarnaast adviseert en stimuleert hij/zij de sportomgeving om preventieve maatregelen te nemen. Een VCP’er heeft een dubbele taak: de weg wijzen wanneer er vragen zijn en meedenken over preventie. Hij/zij fungeert als eerste opvang voor leden met een klacht. 
 
-Binnen Devhouse Spindle is Bob Voorneveld aangewezen als zijnde VCP’er.
+Binnen Devhouse Spindle is Jeroen van Veen aangewezen als zijnde VCP’er.
 
 ### Algemene gedragsregels
 
