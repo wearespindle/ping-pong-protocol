@@ -107,7 +107,7 @@ Geoorloofd en bevorderd zijn de onderstaande tactieken. Probeert u zich echter n
 
 #### Misleiden
 
-Het idee scheppen dat je nog in het spel zit terwijl je in werkelijkheid af bent, om zo de persoon na je te misleiden om de bal niet terug te slaan.
+Het idee scheppen dat je nog in het spel zit terwijl je in werkelijkheid af bent, om zo de persoon na je te misleiden om de bal niet terug te slaan. Echter, als er ter controle een vraag wordt gesteld of je nog in het spel zit, dat dient deze vraag tijdig en waarheidsgetrouw beantwoord te worden.
 
 #### Twee ballen opgeslagen
 Hierbij dient minimaal één bal teruggeslagen te worden om de return op de opslag geldend te laten zijn.
