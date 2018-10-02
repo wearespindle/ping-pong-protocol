@@ -125,4 +125,4 @@ Gedurende het gehele spel een hand in de broekzak houden, dit geldt eveneens bij
 Bij een unanieme WOW!? blijft de speler in het spel, ook als de return van de slag binnen andere tafeltennisreglementen als niet geldend wordt bestempeld. 
 
 #### Chaos en verwarring
-Als een speler niet op hoogte van een bepaalde regel en daardoor afvalt in een ronde, of als er dermate veel chaos ontstaat dat het niet duidelijk is welke speler af is, mag er "verwarring" worden geclaimd. Daardoor mag iedereen blijven spelen. Let wel, te vaak verwarring claimen wordt gezien als een dick-move. Uit ervaring is gebleken dat een aantal spelers hier geen enkele moeite mee heeft.
+Als een speler niet op hoogte is van een bepaalde regel en daardoor afvalt in een ronde, of als er dermate veel chaos ontstaat dat het niet duidelijk is welke speler af is, mag er "verwarring" worden geclaimd. Daardoor mag iedereen blijven spelen. Let wel, te vaak verwarring claimen wordt gezien als een dick-move. Uit ervaring is gebleken dat een aantal spelers hier geen enkele moeite mee heeft.
