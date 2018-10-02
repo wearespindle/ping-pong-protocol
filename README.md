@@ -24,7 +24,7 @@ Dit document kan worden opgevat als satire, desalniettemin zijn geldend alle reg
 2.1.3 Senioren zijn alle overige leden.
 
 
-2.2.1 Lid worden is te allen tijde mogelijk en kan worden aangevraagd bij de secretaris, Tim Eebes.
+2.2.1 Lid worden is te allen tijde mogelijk en kan worden aangevraagd bij de secretaris.
 
 2.2.2 Er zal geen ledenadministratie worden bijgehouden. Ieder lid dient van zichzelf te weten of hij/zij lid is.
 
@@ -52,7 +52,7 @@ Dit document kan worden opgevat als satire, desalniettemin zijn geldend alle reg
 
 #### Artikel 5, Locatie
 
-5.1 Tafeltennis heurt bij Devhouse Spindle en zal altijd worden gespeeld in de buurt van haar HQ. De vereniging traint en speelt haar wedstrijden in The Big Building, Achterweg 1 te Groningen. 
+5.1 Tafeltennis heurt bij Devhouse Spindle en zal altijd worden gespeeld in de buurt van haar HQ. De vereniging traint en speelt haar wedstrijden in Het Kwadraat, Lübeckweg 2 te Groningen. 
 
 5.2 Hoofdspeelplaats is voornamelijk het kantoor van Devhouse Spindle. Tussen de lockers en de bar.
 
@@ -82,7 +82,7 @@ Dit document kan worden opgevat als satire, desalniettemin zijn geldend alle reg
 
 Sporten en seksuele intimidatie, ze zouden geen enkele relatie met elkaar moeten hebben. Echter, het tegendeel is waar. Nog altijd vinden er binnen de sportwereld incidenten plaats variërend van seksueel getinte opmerkingen tot ongewenst lichamelijk contact.
 
-NOC*NSF heeft in samenwerking met de sportbonden een toolkit Beleid Seksuele Intimidatie ontwikkeld. De toolkit ondersteunt Devhouse Spindle in de uitvoering van een sociaal veiligheidsbeleid, of te wel om seksuele intimidatie te voorkomen.
+NOC*NSF heeft in samenwerking met de sportbonden een toolkit Beleid Seksuele Intimidatie ontwikkeld. De toolkit ondersteunt Devhouse Spindle in de uitvoering van een sociaal veiligheidsbeleid, oftewel om seksuele intimidatie te voorkomen.
 
 ### VertrouwensContactPersoon
 
