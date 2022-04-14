@@ -72,6 +72,7 @@ Modifier list
 |Serve decides the play area | When the serve is played, the 2 rectangles on each side of the net the ball bounces on are the ones the following player must play on as well.|
 |Phone bat | Play the game using your phone as a bat.|
 |Wrong hand | Play the game using your non-dominant hand.|
+|Double trouble | Play the game with the bat in both hands. One hand should be on the handle, the other on the opposite side of the bat.|
 |Above... | Play the game hitting the ball above a point defined by the modifier's creator.|
 |Loopje | When receiving the ball, you're allowed to hit it an extra time to get it higher in the air; perfect for smash.|
 |Smash on demand | Whenever another active players calls "Smash" the next player receiving the ball has to smash the ball. Usually limited to one call per player per round.|
