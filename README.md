@@ -70,7 +70,7 @@ Modifier list
 |Normal | A good ol' game of ping pong using Spindle specs.|
 |Always serve |All players must play the ball as if hitting a serve: the ball has to bounce on each side of the net each time.|
 |Hand in/on ... | All players keep a hand on/in the designed spot during the entirety of the game or will be out if they don't. Most used variant is "Hand in the sack", meaning all those wearing pants with pockets put their 'wrong hand' into their pocket. Those without pockets keep their hand as if doing so.|
-|Tennis | The ball needs to be played after it bounces x time(s) on the ground. The ball can bounce on the receiving player's side of the table as many times as necessary to fall off the table and hit the ground. Serve can be included or played like a normal one. Returns may be played as a normal or always serve play. An additional modifier is "Tennis Fibonacci", where the number of bounces relates to the Fibonacci sequence (i.e. 1, 1, 2, 3, 5, 8, ...).|
+|Tennis | The ball needs to be played after it bounces x time(s) on the ground. The ball can bounce on the receiving player's side of the table as many times as necessary to fall off the table and hit the ground. Serve can be included or played like a normal one. Returns may be played as a normal or always serve play.|
 |Triple optional | Players have to play either a normal, always serve, or tennis hit to return the ball. The choice is their own except if mentioned otherwise at the beginning of the game.|
 |Triple choptional | Same as the Triple optional modifier except the always serve and tennis plays must be played while adding a spin to the ball. For normal returns, spins are forbidden.|
 |T-rex | Players tuck their playing arm either in their sleeve or close to their body to mimic a T-rex's small arms and must play all hits like so.|
@@ -83,6 +83,7 @@ Modifier list
 |Wrong hand | Play the game using your non-dominant hand.|
 |Above... | Play the game hitting the ball above a point defined by the modifier's creator.|
 |Lopje | When receiving the ball, you're allowed to hit it an extra time to get it higher in the air; perfect for smash.|
+|Fibonacci | To be combined with, for example, Tennis or Always serve. The number of bounces relates to the Fibonacci sequence (i.e. 1, 1, 2, 3, 5, 8, 13, ...). The sequence resets with every serve, unless specified otherwise.|
 |Smash on demand | Whenever another active players calls "Smash" the next player receiving the ball has to smash the ball. Usually limited to one call per player per round.|
 |"It's complicated" | Whenever a player is knocked out, he or she can say "I love you, (wo)man" to another player who's already out, who's then reintegrated into the game. Or "I hate you, (wo)man!" to a player who's still in who's then also knocked out.|
 |Say "..." | Every time the ball passes the net, the player receiving the ball must say a certain thing (e.g. an animal species, a power of 2, a French word). If the receiving player fails to do so before hitting the ball back, that player is out.|
