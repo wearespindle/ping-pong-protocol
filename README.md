@@ -88,6 +88,8 @@ Modifier list
 |Smash on demand | Whenever another active players calls "Smash" the next player receiving the ball has to smash the ball. Usually limited to one call per player per round.|
 |"It's complicated" | Whenever a player is knocked out, he or she can say "I love you, (wo)man" to another player who's already out, who's then reintegrated into the game. Or "I hate you, (wo)man!" to a player who's still in who's then also knocked out.|
 |Say "..." | Every time the ball passes the net, the player receiving the ball must say a certain thing (e.g. an animal species, a power of 2, a French word). If the receiving player fails to do so before hitting the ball back, that player is out.|
+|Ball is lava| If a player touches the ball, they are out.|
+|Ball is lightning| Similar to Ball is lava, but the effect is canceled if the player does not touch the ground while touching the ball.|
 
 ### Code of Conduct
 The SP3 states that every player should conduct themselves in a friendly way. Regular players, as well as guests, should conduct themselves in a positive way at all times. Next to that are the following guidelines:
