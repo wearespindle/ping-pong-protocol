@@ -90,6 +90,8 @@ Modifier list
 |Say "..." | Every time the ball passes the net, the player receiving the ball must say a certain thing (e.g. an animal species, a power of 2, a French word). If the receiving player fails to do so before hitting the ball back, that player is out.|
 |Ball is lava| If a player touches the ball, they are out.|
 |Ball is lightning| Similar to Ball is lava, but the effect is canceled if the player does not touch the ground while touching the ball.|
+|Hand Job| After a normal serve, all returns have to be done by hand. You can catch the ball and throw it.|
+
 
 ### Code of Conduct
 The SP3 states that every player should conduct themselves in a friendly way. Regular players, as well as guests, should conduct themselves in a positive way at all times. Next to that are the following guidelines:
